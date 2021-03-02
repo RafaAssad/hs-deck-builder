@@ -1,0 +1,1298 @@
+{
+    "cards": [
+      {
+        "id": 56806,
+        "collectible": 1,
+        "slug": "56806-shadowhoof-slayer",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 15,
+        "cardTypeId": 4,
+        "cardSetId": 2,
+        "rarityId": 2,
+        "artistName": "A.J. Nazzaro",
+        "health": 1,
+        "attack": 2,
+        "manaCost": 1,
+        "name": "Assassino Casconero",
+        "text": "<b>Grito de Guerra:</b> Conceda +1 de Ataque ao seu herói neste turno.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/384fdd4ddfc3082e69e8715d4817594f99bf23f0210f4dd816f9d71e811d55c7.png",
+        "imageGold": "",
+        "flavorText": "Um mero Arqueiro Élfico até se deparar com Sargeras.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e552e5d3943fdaf87be9d5d12f73ae374f0f0b31b3000c8d37d22031e8c87247.png",
+        "keywordIds": [
+          8
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 58170,
+        "collectible": 1,
+        "slug": "58170-crimson-sigil-runner",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1414,
+        "rarityId": 1,
+        "artistName": "Arthur Bozonnet",
+        "health": 1,
+        "attack": 1,
+        "manaCost": 1,
+        "name": "Emissário do Signo Carmesim",
+        "text": "<b>Exilar:</b> Compre um card.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed027da2516441d6f41fb785249a2984ce2b5295bdd0018e3a9ad0f8ba60b341.png",
+        "imageGold": "",
+        "flavorText": "Ele não é o mais rápido do pedaço, mas apunhala mesmo assim.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/982a0faced5f333bb1b35d673aff4c6b2595a1dd553820e37db057379aceed4e.png",
+        "keywordIds": [
+          86
+        ]
+      },
+      {
+        "id": 58487,
+        "collectible": 1,
+        "slug": "58487-battlefiend",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 15,
+        "cardTypeId": 4,
+        "cardSetId": 1463,
+        "rarityId": 1,
+        "artistName": "Andrew Hou",
+        "health": 2,
+        "attack": 1,
+        "manaCost": 1,
+        "name": "Carnífice de Batalha",
+        "text": "Depois que seu herói atacar, receba +1 de Ataque.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1bf7da04bec4fef939eb07e4455c80a1a350a65e906614f5a612500e4b048c45.png",
+        "imageGold": "",
+        "flavorText": "Pode chamar o meu brutamontes de machado sem cabo, mas ele é pau para toda obra.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/465fca2734fdbc0e5039098359bf8e1cdcf35935754bc4949c4d4b9ff773db6f.png",
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 56739,
+        "collectible": 1,
+        "slug": "56739-urzul-horror",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 15,
+        "cardTypeId": 4,
+        "cardSetId": 1463,
+        "rarityId": 1,
+        "artistName": "James Ryman",
+        "health": 1,
+        "attack": 2,
+        "manaCost": 1,
+        "name": "Horror de Ur'zul",
+        "text": "<b>Último Suspiro:</b> Adicione uma Alma Perdida 2/1 à sua mão.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/439e4d54dec1e73cb757025fe6e813d8e206a25a8621fecddcad6e2259caddf6.png",
+        "imageGold": "",
+        "flavorText": "Você está cara a cara a cara a cara a cara com Jaraxxus!",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/614417f5ed6420bed781d90e98d6c607b6868c12a6d06fc5de754db2912623a9.png",
+        "childIds": [
+          59518
+        ],
+        "keywordIds": [
+          12
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 69586,
+        "collectible": 1,
+        "slug": "69586-battlefiend",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 15,
+        "cardTypeId": 4,
+        "cardSetId": 1637,
+        "rarityId": 1,
+        "artistName": "Andrew Hou",
+        "health": 2,
+        "attack": 1,
+        "manaCost": 1,
+        "name": "Carnífice de Batalha",
+        "text": "Depois que seu herói atacar, receba +1 de Ataque.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b4473ff9d6b11264a12e735c3c3bfa5997312ae80098cb5ae889c2b089acd47.png",
+        "imageGold": "",
+        "flavorText": "Pode chamar o meu brutamontes de machado sem cabo, mas ele é pau para toda obra.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/465fca2734fdbc0e5039098359bf8e1cdcf35935754bc4949c4d4b9ff773db6f.png"
+      },
+      {
+        "id": 69683,
+        "collectible": 1,
+        "slug": "69683-crimson-sigil-runner",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1637,
+        "rarityId": 1,
+        "artistName": "Arthur Bozonnet",
+        "health": 1,
+        "attack": 1,
+        "manaCost": 1,
+        "name": "Emissário do Signo Carmesim",
+        "text": "<b>Exilar:</b> Compre um card.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/121a236d7f08285e5ceadcbd69ff45bfb7d8494691623b16113d8bdef10a32e7.png",
+        "imageGold": "",
+        "flavorText": "Ele não é o mais rápido do pedaço, mas apunhala mesmo assim.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/982a0faced5f333bb1b35d673aff4c6b2595a1dd553820e37db057379aceed4e.png",
+        "keywordIds": [
+          86
+        ]
+      },
+      {
+        "id": 56973,
+        "collectible": 1,
+        "slug": "56973-sightless-watcher",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 15,
+        "cardTypeId": 4,
+        "cardSetId": 2,
+        "rarityId": 2,
+        "artistName": "Jaemin Kim",
+        "health": 2,
+        "attack": 3,
+        "manaCost": 2,
+        "name": "Vigia Cego",
+        "text": "<b>Grito de Guerra:</b> Veja 3 cards do seu deck. Escolha um para colocar no topo.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b559ac9caddc9141756b78aecbfa819c3b4d051b187ed8b9ceaa41c35bf85fc7.png",
+        "imageGold": "",
+        "flavorText": "O que falta em visão, ele compensa com truques com os tentáculos.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29aca497f6e4c09bcd7af8f29e439aa57b48f7dbdee66345e4e16cbfb06585f7.png",
+        "keywordIds": [
+          8
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 56985,
+        "collectible": 1,
+        "slug": "56985-netherwalker",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1414,
+        "rarityId": 1,
+        "artistName": "Arthur Bozonnet",
+        "health": 2,
+        "attack": 2,
+        "manaCost": 2,
+        "name": "Andarilha do Éter",
+        "text": "<b>Grito de Guerra:</b> <b>Descubra</b> um Demônio.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1aec37f41b06bbf296151772fded7c28afb89fc6c1ab423d94575d45661981e7.png",
+        "imageGold": "",
+        "flavorText": "Antes de andar no éter você tem que engatinhar.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58b4687f90f0711da3449483f782e22fc8016489cc7c211e2709fa9bf3e83f31.png",
+        "keywordIds": [
+          8,
+          21
+        ]
+      },
+      {
+        "id": 58495,
+        "collectible": 1,
+        "slug": "58495-furious-felfin",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 14,
+        "cardTypeId": 4,
+        "cardSetId": 1414,
+        "rarityId": 3,
+        "artistName": "Matt Dixon",
+        "health": 2,
+        "attack": 3,
+        "manaCost": 2,
+        "name": "Pinavil Furioso",
+        "text": "<b>Grito de Guerra:</b> Se seu herói atacou neste turno, receba +1 de Ataque e <b>Rapidez</b>.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/685e9717848d42b6b1222e7ea878e5bab017b91eef595e80647c746389f9679f.png",
+        "imageGold": "",
+        "flavorText": "Entre suas marcas registradas estão Raio Acará, Banquete de Piabas e Merluzamorfose.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8010443b56b7418c25de81c971e76e43f1e6d2db92e9fa149c1c1de11a270e64.png",
+        "keywordIds": [
+          8,
+          53
+        ]
+      },
+      {
+        "id": 61128,
+        "collectible": 1,
+        "slug": "61128-redeemed-pariah",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1466,
+        "rarityId": 1,
+        "artistName": "Zoltan Boros",
+        "health": 3,
+        "attack": 2,
+        "manaCost": 2,
+        "name": "Pária Redimido",
+        "text": "Depois que você jogar um card com <b>Exilar</b>, receba +1/+1.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc4a8d463c15f67a2558138451bcec3be660b68443ed4150cdd59cbf8a742162.png",
+        "imageGold": "",
+        "flavorText": "\"Olha só esse graveto. Olha só isso!\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7fd8098ce02af68c7e94c2e9df97b36abfa5ce738ed7fdde2e86322b6dfcf00.png",
+        "keywordIds": [
+          86
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 64467,
+        "collectible": 1,
+        "slug": "64467-korvas-bloodthorn",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1637,
+        "rarityId": 5,
+        "artistName": "Arthur Bozonnet",
+        "health": 2,
+        "attack": 2,
+        "manaCost": 2,
+        "name": "Kor'vas Sangrespinho",
+        "text": "<b>Investida</b>, <b>Roubar Vida</b> Depois que você jogar um card com <b>Exilar</b>, devolva este card à sua mão.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/311546ba8b50f61703212be2c234c9bd8fc2acab7750e056cfd575cd4e2f1621.png",
+        "imageGold": "",
+        "flavorText": "Illidan taught her that demon hunters should sacrifice EVERYTHING… but she still brought Lifesteal just in case.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5288146e3dce6b132cb9bc1fa73f67c61c507b3f707884d714e1120cb7075d0a.png",
+        "keywordIds": [
+          4,
+          38,
+          86
+        ]
+      },
+      {
+        "id": 69506,
+        "collectible": 1,
+        "slug": "69506-sightless-watcher",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 15,
+        "cardTypeId": 4,
+        "cardSetId": 1637,
+        "rarityId": 3,
+        "artistName": "Jaemin Kim",
+        "health": 2,
+        "attack": 3,
+        "manaCost": 2,
+        "name": "Vigia Cego",
+        "text": "<b>Grito de Guerra:</b> Veja 3 cards do seu deck. Escolha um para colocar no topo.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f96dbcf42aa9d46ecdae307a8082e63fadd4bd63065f2646922e9c550db2204.png",
+        "imageGold": "",
+        "flavorText": "O que falta em visão, ele compensa com truques com os tentáculos.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29aca497f6e4c09bcd7af8f29e439aa57b48f7dbdee66345e4e16cbfb06585f7.png",
+        "keywordIds": [
+          8
+        ]
+      },
+      {
+        "id": 58489,
+        "collectible": 1,
+        "slug": "58489-satyr-overseer",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 15,
+        "cardTypeId": 4,
+        "cardSetId": 2,
+        "rarityId": 2,
+        "artistName": "Zoltan Boros",
+        "health": 2,
+        "attack": 4,
+        "manaCost": 3,
+        "name": "Feitor Sátiro",
+        "text": "Depois que seu herói atacar, evoque um Sátiro 2/2.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f436bc63c4225f48f35c3954bad8d261f543f769a658678fc65eaad51e63544.png",
+        "imageGold": "",
+        "flavorText": "O que falta em comunicação, ele compensa com alocação de pessoal altamente reativa.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89daef90865dbc4a801a85cc21423a0dd2e22b284f854681905553417c6cef5c.png",
+        "childIds": [
+          58496
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 59230,
+        "collectible": 1,
+        "slug": "59230-magehunter",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1443,
+        "rarityId": 3,
+        "artistName": "Dave Allsop",
+        "health": 3,
+        "attack": 2,
+        "manaCost": 3,
+        "name": "Caça-Magos",
+        "text": "<b>Rapidez</b> Sempre que este card atacar um lacaio, <b>Silencie-o</b>.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/820f74feca28fb86772f4626835766b1105bd7e892cea471b36df7f549d74171.png",
+        "imageGold": "",
+        "flavorText": "Odeia esperar. Abomina conversa mole. Gosta da cor púrpura.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2db5b294cbc5dd76155a111febc1f4c5f8d4dbe9b9ee906c16b33632605ad8e3.png",
+        "keywordIds": [
+          15,
+          53
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 60003,
+        "collectible": 1,
+        "slug": "60003-ace-hunter-kreen",
+        "classId": 14,
+        "multiClassIds": [
+          14,
+          3
+        ],
+        "cardTypeId": 4,
+        "cardSetId": 1443,
+        "rarityId": 5,
+        "artistName": "James Ryman",
+        "health": 4,
+        "attack": 2,
+        "manaCost": 3,
+        "name": "Caçador-Mor Kreen",
+        "text": "Seus outros personagens ficam <b>Imunes</b> enquanto atacam.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff794dc50ed988ac65af9170882a3f3cf6e843c8c9a343253da28dd68bd59a34.png",
+        "imageGold": "",
+        "flavorText": "Esse grão-mestre dos atiradores adora vencer torneios... e uma colherzinha de sorvete.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e3d10913c2c95ac813aa30f68d18317503d306f941ef3cdcd76a7ee0cbdb094.png",
+        "keywordIds": [
+          17
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 59710,
+        "collectible": 1,
+        "slug": "59710-wrathscale-naga",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1463,
+        "rarityId": 4,
+        "artistName": "Ware Lee",
+        "health": 1,
+        "attack": 3,
+        "manaCost": 3,
+        "name": "Naga Escamódio",
+        "text": "Depois que um lacaio aliado morrer, cause 3 de dano a um inimigo aleatório.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b967709d8d4d28bf4871c1fff87ec63b1af0fc86978857b90239b0d70fa6110a.png",
+        "imageGold": "",
+        "flavorText": "Se o que almeja é glaives atirar, evocar fichas e as degradar é o que fará.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd2ce30b235eac9fe09b1ca642d2cc5d434350a25e9b52c9e812ce312d745821.png",
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 61269,
+        "collectible": 1,
+        "slug": "61269-insatiable-felhound",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 15,
+        "cardTypeId": 4,
+        "cardSetId": 1466,
+        "rarityId": 1,
+        "artistName": "Zoltan Boros",
+        "health": 5,
+        "attack": 2,
+        "manaCost": 3,
+        "name": "Canisvil Insaciável",
+        "text": "<b>Provocar</b> <b>Corromper:</b> Receba +1/+1 e <b>Roubar Vida</b>.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc539e48c153611d4e785fbb7eda7148eeb2c8c4aa4d856fb730561c63bfb675.png",
+        "imageGold": "",
+        "flavorText": "Bicampeão do concurso anual de comer cachorro-quente... e do concurso de comer juízes.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae6850594dbf310a393ee79ba9e0eda800de858b71b6c654762f40261b90beec.png",
+        "childIds": [
+          61270
+        ],
+        "keywordIds": [
+          1,
+          38,
+          91
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 61271,
+        "collectible": 1,
+        "slug": "61271-felsteel-executioner",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 18,
+        "cardTypeId": 4,
+        "cardSetId": 1466,
+        "rarityId": 4,
+        "artistName": "Jakub Kasper",
+        "health": 3,
+        "attack": 4,
+        "manaCost": 3,
+        "name": "Executor de Açovil",
+        "text": "<b>Corromper:</b> Torne-se uma arma.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ac2e800d090e9680dff0c19a94f561e654a0dbe12653e8808018535184b6e48.png",
+        "imageGold": "",
+        "flavorText": "\"Minha mãe disse que eu poderia ser o que eu quisesse.\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e1c6344d98ff75449bd5c9bbcfa3e3b272b45d0c44020a2e71f81bd33fd6882.png",
+        "childIds": [
+          61272
+        ],
+        "keywordIds": [
+          91
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 61123,
+        "collectible": 1,
+        "slug": "61123-line-hopper",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1466,
+        "rarityId": 1,
+        "artistName": "K. Lashley & K. Turovec",
+        "health": 4,
+        "attack": 3,
+        "manaCost": 3,
+        "name": "Fura-Fila",
+        "text": "Seus cards com <b>Exilar</b> custam (1) a menos.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3d442c6e78e9c52aa44b7000bf3c0fe356bdf89c304c484cd4d99b6554d54a3.png",
+        "imageGold": "",
+        "flavorText": "Se tem uma coisa que um Caçador de Demônios sabe fazer é furar.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b06d2c25b7128e899cac89dadef83038794c43993e2402b008546b9277b788bc.png",
+        "keywordIds": [
+          86
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 61135,
+        "collectible": 1,
+        "slug": "61135-stiltstepper",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1466,
+        "rarityId": 4,
+        "artistName": "Arthur Gimaldinov",
+        "health": 1,
+        "attack": 4,
+        "manaCost": 3,
+        "name": "Perna de Pau",
+        "text": "<b>Grito de Guerra:</b> Compre um card. Se você jogá-lo neste turno, conceda +4 de Ataque ao seu herói neste turno.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61a3eb0bce9217469fc6ad92690eae8f53bce5e5f99e0e3b028872a42c50bc0d.png",
+        "imageGold": "",
+        "flavorText": "A escola de circo era concorrida. Às vezes você tinha que pisar na cabeça dos outros pra chegar no topo.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6654b7b98a61867c7e9380c3c63afd4e815fb74ed57ef30a01e276a52352ceb7.png",
+        "keywordIds": [
+          8
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 64465,
+        "collectible": 1,
+        "slug": "64465-ganarg-glaivesmith",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 15,
+        "cardTypeId": 4,
+        "cardSetId": 1637,
+        "rarityId": 1,
+        "artistName": "Forrest Imel",
+        "health": 2,
+        "attack": 3,
+        "manaCost": 3,
+        "name": "Forja-Glaive Gan'arg",
+        "text": "<b>Exilar:</b> Conceda +3 de Ataque ao seu herói neste turno.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b800b80aebb2e1260b16232c20ab028975f922ae097acd7db851afebe16472c.png",
+        "imageGold": "",
+        "flavorText": "When isolation becomes motivation.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/997b5a9b3789ed7c03b06036caf34019d07d105dd747c2e5d55a062bdb0fd6f1.png",
+        "keywordIds": [
+          86
+        ]
+      },
+      {
+        "id": 58202,
+        "collectible": 1,
+        "slug": "58202-kayn-sunfury",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1414,
+        "rarityId": 5,
+        "artistName": "Wayne Reynolds",
+        "health": 4,
+        "attack": 3,
+        "manaCost": 4,
+        "name": "Kayn Solfúria",
+        "text": "<b>Investida</b>. Todos os ataques aliados ignoram <b>Provocar</b>.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db109af8d1c875b58ce5043cc3abf54d5eecda235701c3474b0f5ec9b03cbabe.png",
+        "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af5eeca3fd22b86d364805e8bdd00f8b42696c5d2e4ba63519778713365ac5a8.png",
+        "flavorText": "\"Armadura e cura são chatice pura, mas glaives e vileza são uma beleza!\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/374e357d4edbc2296a3496435a05f1a099dd10027a5ec24d9ffb7c484c1607fd.png",
+        "keywordIds": [
+          1,
+          4
+        ]
+      },
+      {
+        "id": 56860,
+        "collectible": 1,
+        "slug": "56860-ashtongue-battlelord",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1414,
+        "rarityId": 1,
+        "artistName": "Ivan Fomin",
+        "health": 5,
+        "attack": 3,
+        "manaCost": 4,
+        "name": "Senhor da Batalha Grislíngua",
+        "text": "<b>Provocar</b> <b>Roubar Vida</b>",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb549bb6f74e902c002b9628d2ebcab111ff8c7a7dca19326aa2ab5b3bb98992.png",
+        "imageGold": "",
+        "flavorText": "Os demônios acabaram com a vida dos draeneis Grislíngua. Dar de ombros é que ele não vai.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94d995550b4bf931e56502c47588f1830f88fe5107fc1b485d043a9282177a0a.png",
+        "keywordIds": [
+          1,
+          38
+        ]
+      },
+      {
+        "id": 59395,
+        "collectible": 1,
+        "slug": "59395-star-student-stelina",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1443,
+        "rarityId": 5,
+        "artistName": "Anton Zemskov",
+        "health": 3,
+        "attack": 4,
+        "manaCost": 4,
+        "name": "Estudante-Estrela Estelina",
+        "text": "<b>Exilar:</b> Veja 3 cards da mão do oponente. Coloque um de volta no deck dele.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f524b4c7580cf192e177047c32f05951d023ad4a1b5cc3511b621953b90ec99b.png",
+        "imageGold": "",
+        "flavorText": "Trapaça nada mais é do que saber usar seus recursos.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f39f775432b1d267778ef363db236da672e68db06be853afaee088bea1dd4085.png",
+        "keywordIds": [
+          86
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 60151,
+        "collectible": 1,
+        "slug": "60151-shardshatter-mystic",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1443,
+        "rarityId": 3,
+        "artistName": "Vladimir Kafanov",
+        "health": 2,
+        "attack": 3,
+        "manaCost": 4,
+        "name": "Mística Fragmentadora",
+        "text": "<b>Grito de Guerra:</b> Destrua um Fragmento de Alma do seu deck e cause 3 de dano a todos os outros lacaios.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1391f27cb18a3d7fe343027c9994643644d728a4ae23459845303af719b2ff8b.png",
+        "imageGold": "",
+        "flavorText": "Gosta de ver o adversário botando a alma pela boca.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f1d675e721a18db95f55292c3347f4f938ebdb6f1ecd4cf6ab3f8f52b4578ec.png",
+        "childIds": [
+          59723
+        ],
+        "keywordIds": [
+          8
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 59753,
+        "collectible": 1,
+        "slug": "59753-vilefiend-trainer",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1443,
+        "rarityId": 1,
+        "artistName": "J. Axer",
+        "health": 4,
+        "attack": 5,
+        "manaCost": 4,
+        "name": "Treinadora de Diabo Vil",
+        "text": "<b>Exilar:</b> Evoque dois Demônios 1/1.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d5942b08ec7d9de3adef82c8a52929dc2b6f2ae7520c3d8591a6d701fcb0833.png",
+        "imageGold": "",
+        "flavorText": "Dizem que eles não são vis, são apenas incompreendidos.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a91f832537cb1c793ee5fa99818c60b8333f0a2f1f377994b35edb2bf26d464.png",
+        "childIds": [
+          59754
+        ],
+        "keywordIds": [
+          86
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 56652,
+        "collectible": 1,
+        "slug": "56652-altruis-the-outcast",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1463,
+        "rarityId": 5,
+        "artistName": "Jerry Mascho",
+        "health": 2,
+        "attack": 4,
+        "manaCost": 4,
+        "name": "Altruis, o Proscrito",
+        "text": "Depois que você jogar o card mais à esquerda ou mais à direita da sua mão, cause 1 de dano a todos os inimigos.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7960e75413c1edbe53189191699b994c431a20da7f9959e8278f032f1375c620.png",
+        "imageGold": "",
+        "flavorText": "Altruis traiu Illidan para forjar seu próprio caminho em Terralém. Com muita violência. E Dracos Etéreos.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b91e59e624ef40371cdec995146c293e8708e3bc1ce9b66a20f5d20ccdd3c3f3.png",
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 56765,
+        "collectible": 1,
+        "slug": "56765-raging-felscreamer",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1463,
+        "rarityId": 3,
+        "artistName": "Slawomir Maniak",
+        "health": 4,
+        "attack": 4,
+        "manaCost": 4,
+        "name": "Bradovil Enraivecida",
+        "text": "<b>Grito de Guerra:</b> O próximo Demônio que você jogar custa (2) a menos.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3b1070a6691f406c6d9f40f2dec36b6ef5833a84705d60586f92d37ba6f0728.png",
+        "imageGold": "",
+        "flavorText": "Gritar alto não vai reduzir o custo de itens não demoníacos.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bdcf5634ebe9d5ee1027fc32831b38f276d60a33e811f91fcea206c2dd270716.png",
+        "keywordIds": [
+          8
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 58524,
+        "collectible": 1,
+        "slug": "58524-illidari-felblade",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1463,
+        "rarityId": 3,
+        "artistName": "Angelica Alieva",
+        "health": 3,
+        "attack": 5,
+        "manaCost": 4,
+        "name": "Lâmina Vil Illidari",
+        "text": "<b>Rapidez</b> <b>Exilar:</b> Receba <b>Imune</b> neste turno.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/542d5c01202ddaa9bae83dd93dfe9da0fca113fae84b00888d5f281a5cd6b509.png",
+        "imageGold": "",
+        "flavorText": "Dervixe rodopiante de devastação demoníaca.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0585df4cc1e2c41c29fdff66c249ec1ef1ef550451c65060a71e659d6f801c64.png",
+        "keywordIds": [
+          17,
+          53,
+          86
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 61136,
+        "collectible": 1,
+        "slug": "61136-ilgynoth",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1466,
+        "rarityId": 5,
+        "artistName": "James Ryman",
+        "health": 6,
+        "attack": 2,
+        "manaCost": 4,
+        "name": "Il'gynoth",
+        "text": "<b>Roubar Vida</b> Seus efeitos de <b>Roubar Vida</b> causam dano ao herói inimigo em vez de curar você.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22b1b57d1ff00882e9da4a2157dacdc2b797e26b247757c70b1403039723e346.png",
+        "imageGold": "",
+        "flavorText": "Parece simplesmente um dano indireto.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd219c3f5a3075c87921d3924a26e39f8644213ca0dbe6d4f48d7399e505bf3c.png",
+        "keywordIds": [
+          38
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 61129,
+        "collectible": 1,
+        "slug": "61129-renowned-performer",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1466,
+        "rarityId": 1,
+        "artistName": "Matt Dixon",
+        "health": 3,
+        "attack": 3,
+        "manaCost": 4,
+        "name": "Ilusionista Renomada",
+        "text": "<b>Rapidez</b> <b>Último Suspiro:</b> Evoque dois Assistentes 1/1 com <b>Provocar</b>.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/44c4f25eb173dd8bd4223bc822967a75e83716ac457834a924113ee673d751ca.png",
+        "imageGold": "",
+        "flavorText": "Cortar o assistente em dois é a parte fácil.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c18d7789797c961c4400727f6a9fe047b54d5a7a0bf9e7a622d6dd51776d223.png",
+        "childIds": [
+          61150
+        ],
+        "keywordIds": [
+          1,
+          12,
+          53
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 61940,
+        "collectible": 1,
+        "slug": "61940-felsaber",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 15,
+        "cardTypeId": 4,
+        "cardSetId": 1466,
+        "rarityId": 1,
+        "artistName": "Hideaki Takamura",
+        "health": 6,
+        "attack": 5,
+        "manaCost": 4,
+        "name": "Sabrevil",
+        "text": "Só pode atacar se o seu Herói tiver atacado neste turno.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/419c7f8745af1c45869ad26d3c80c1765736499fb0795e5b6cd34218d82b9f62.png",
+        "imageGold": "",
+        "flavorText": "Tem gente que quer ouvir o motor roncar, esse aqui prefere rosnar.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d283119e7dccb3e3b2a1d02839a7a3a3ee0d60ee1a004757407ae5117829cea6.png",
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 69588,
+        "collectible": 1,
+        "slug": "69588-raging-felscreamer",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1637,
+        "rarityId": 3,
+        "artistName": "Slawomir Maniak",
+        "health": 4,
+        "attack": 4,
+        "manaCost": 4,
+        "name": "Bradovil Enraivecida",
+        "text": "<b>Grito de Guerra:</b> O próximo Demônio que você jogar custa (2) a menos.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9578e8636c75c16d28acdd10fe44a74193b4aa779d52df9438c4254eaddebb29.png",
+        "imageGold": "",
+        "flavorText": "Gritar alto não vai reduzir o custo de itens não demoníacos.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bdcf5634ebe9d5ee1027fc32831b38f276d60a33e811f91fcea206c2dd270716.png",
+        "keywordIds": [
+          8
+        ]
+      },
+      {
+        "id": 69681,
+        "collectible": 1,
+        "slug": "69681-ashtongue-battlelord",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1637,
+        "rarityId": 1,
+        "artistName": "Ivan Fomin",
+        "health": 5,
+        "attack": 3,
+        "manaCost": 4,
+        "name": "Senhor da Batalha Grislíngua",
+        "text": "<b>Provocar</b> <b>Roubar Vida</b>",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0617262f1ca9f02830f4ed3d09fd8fa5dc7babc896f86e5b9a52f3ebbfd80651.png",
+        "imageGold": "",
+        "flavorText": "Os demônios acabaram com a vida dos draeneis Grislíngua. Dar de ombros é que ele não vai.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94d995550b4bf931e56502c47588f1830f88fe5107fc1b485d043a9282177a0a.png",
+        "keywordIds": [
+          1,
+          38
+        ]
+      },
+      {
+        "id": 58494,
+        "collectible": 1,
+        "slug": "58494-glaivebound-adept",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 2,
+        "rarityId": 2,
+        "artistName": "Paul Mafayon",
+        "health": 4,
+        "attack": 6,
+        "manaCost": 5,
+        "name": "Adepto da Glaive Jurada",
+        "text": "<b>Grito de Guerra:</b> Se seu herói atacou neste turno, cause 4 de dano.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b502e264fa40c4a7e5beb243563b6447162690757f0649e2ac51b7bdbda91d20.png",
+        "imageGold": "",
+        "flavorText": "\"Iniciado, esta é sua glaive. Ela deve ser vista como extensão do seu corpo... Você jogou ela, foi?!\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/523eb23c9098f8da1f9dbbef60ac631c2affd1c880eac0d7830e18b3d5859b2a.png",
+        "keywordIds": [
+          8
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 59720,
+        "collectible": 1,
+        "slug": "59720-blood-herald",
+        "classId": 14,
+        "multiClassIds": [
+          14,
+          3
+        ],
+        "cardTypeId": 4,
+        "cardSetId": 1443,
+        "rarityId": 1,
+        "artistName": "Ivan Fomin",
+        "health": 1,
+        "attack": 1,
+        "manaCost": 5,
+        "name": "Arauto de Sangue",
+        "text": "Sempre que um lacaio aliado morrer e este card estiver na sua mão, receba +1/+1.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b9b8eaf309f62c6725bc38254ac09a8eb974457289166912b53091af6ab49f4c.png",
+        "imageGold": "",
+        "flavorText": "\"Sangue de boi. Aroma ácido, levemente frutado, com toques de capim.\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86aca8b2eb83daaddd29ee47489ba97b4ebf0037a056a35c2c635fb12af398dd.png",
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 59732,
+        "collectible": 1,
+        "slug": "59732-soulshard-lapidary",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1443,
+        "rarityId": 1,
+        "artistName": "Akkapoj T.",
+        "health": 5,
+        "attack": 5,
+        "manaCost": 5,
+        "name": "Lapidária de Estilhaços",
+        "text": "<b>Grito de Guerra:</b> Destrua um Fragmento de Alma do seu deck para conceder +5 de Ataque ao seu herói neste turno.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a447dfd409a1d108c267fdd0f9e615582f69721c1ce07d0c81d1c6873139f38c.png",
+        "imageGold": "",
+        "flavorText": "Isso é o que se chama de conhecimento fragmentário.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c5ae1371bce61f263a10f7749e8ac7aa56d8fe9d446ab13d4ce87bf1dc4d8c5.png",
+        "childIds": [
+          59723
+        ],
+        "keywordIds": [
+          8
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 59865,
+        "collectible": 1,
+        "slug": "59865-wrathspike-brute",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 15,
+        "cardTypeId": 4,
+        "cardSetId": 1463,
+        "rarityId": 4,
+        "artistName": "Vladimir Kafanov",
+        "health": 6,
+        "attack": 2,
+        "manaCost": 5,
+        "name": "Brutamontes Pontiafúria",
+        "text": "<b>Provocar</b> Depois que este lacaio for atacado, cause 1 de dano a todos os inimigos.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b6bf646dcd0a33a71612dffe35b28e27fa291d6f596a467c9a1bc546408f5f3a.png",
+        "imageGold": "",
+        "flavorText": "Você dá uma coçadinha nas costas dela, as costas dela te coçam de volta.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/099b74a62190aa1574e6dd9496d192f9fc78426a2f8dfb27c29c7304a1ce9261.png",
+        "keywordIds": [
+          1
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 61137,
+        "collectible": 1,
+        "slug": "61137-zai-the-incredible",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1466,
+        "rarityId": 5,
+        "artistName": "A.J. Nazzaro",
+        "health": 3,
+        "attack": 5,
+        "manaCost": 5,
+        "name": "Zai, a Incrível",
+        "text": "<b>Grito de Guerra:</b> Copie os cards mais à esquerda e mais à direita na sua mão.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1e2ab77282458368724f08a49df7fa8da9bd5a3d5080a716ab45b8b09b7ec01.png",
+        "imageGold": "",
+        "flavorText": "Logo em seguida vem o irmão caçula: Frank, o Medíocre.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df2bf40ec976f2d0873f68d87a2685fc498a883ee689cd55fbaa73455f1b3788.png",
+        "keywordIds": [
+          8
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 56649,
+        "collectible": 1,
+        "slug": "56649-imprisoned-antaen",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 15,
+        "cardTypeId": 4,
+        "cardSetId": 1414,
+        "rarityId": 3,
+        "artistName": "Rafael Zanchetin",
+        "health": 6,
+        "attack": 10,
+        "manaCost": 6,
+        "name": "Antaen Aprisionado",
+        "text": "<b>Adormecido</b> por 2 turnos. Quando este lacaio acordar, cause 10 de dano dividido aleatoriamente entre todos os inimigos.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad094d9830226d8f7354045d0ce0f905b87cfb51f9b01913345af0728b80b239.png",
+        "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f540e2d850217dce9ea411a31b8038adcadade345d374bb6cac768ec6c012a16.png",
+        "flavorText": "Onde eu vou arranjar grilhões tamanho GGGG?",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bfd9a4ef217e52bbb7f5967b27a6999bcf4b552a438c021dd00cd84a280cef1f.png"
+      },
+      {
+        "id": 59864,
+        "collectible": 1,
+        "slug": "59864-fel-summoner",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1414,
+        "rarityId": 1,
+        "artistName": "David Kegg",
+        "health": 3,
+        "attack": 8,
+        "manaCost": 6,
+        "name": "Evocadora Vil",
+        "text": "<b>Último Suspiro:</b> Evoque um Demônio aleatório da sua mão.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5dbaef8bc2cbc5a9fb753bd3af145e656af1eadf9b7b9d5c5584fdcec5032051.png",
+        "imageGold": "",
+        "flavorText": "Se evoca bem e vil é, a vileza não avilta e no evocador dá para botar fé.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/143d28bfa4791d626f697408df4e02b97e59c22be588224a11bfa560f3ac7618.png",
+        "keywordIds": [
+          12
+        ]
+      },
+      {
+        "id": 61132,
+        "collectible": 1,
+        "slug": "61132-bladed-lady",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 15,
+        "cardTypeId": 4,
+        "cardSetId": 1466,
+        "rarityId": 3,
+        "artistName": "James Ryman",
+        "health": 6,
+        "attack": 6,
+        "manaCost": 6,
+        "name": "Senhora das Lâminas",
+        "text": "<b>Rapidez</b> Custa (1) se seu herói tiver 6 ou mais de Ataque.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f7bb38ae500aeac5fbbd8f331dd5562c100140f869003dd1f5bb2a368191e79.png",
+        "imageGold": "",
+        "flavorText": "Enquanto você estudava magia, ela estudava lâminas.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5fd7379ac0e62bea77d48c2151e5d2e46e60df95908e9f40a217cdd9398dc2cd.png",
+        "keywordIds": [
+          53
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 58455,
+        "collectible": 1,
+        "slug": "58455-priestess-of-fury",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 15,
+        "cardTypeId": 4,
+        "cardSetId": 1414,
+        "rarityId": 3,
+        "artistName": "Bayard Wu",
+        "health": 5,
+        "attack": 6,
+        "manaCost": 7,
+        "name": "Sacerdotisa da Fúria",
+        "text": "No final do seu turno, cause 6 de dano dividido aleatoriamente entre todos os inimigos.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02e8e2e57b06610605d859b746896b616c98196f275e53541a90928a521eec61.png",
+        "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f2e15d6375d6c3e55bbe0462c227c156ddc61745a8ad40e1d0296abfefbcb96.png",
+        "flavorText": "Furiosa por ter só seis glaives de guerra. O Vigia Cego tem oito! A vileza do vizinho é sempre mais verde.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/182bf62101d1d9224a2e1be08602c5c879498a715b158476d51a84eae7a1deb8.png"
+      },
+      {
+        "id": 60280,
+        "collectible": 1,
+        "slug": "60280-coilfang-warlord",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1414,
+        "rarityId": 3,
+        "artistName": "Kagi",
+        "health": 5,
+        "attack": 9,
+        "manaCost": 8,
+        "name": "Senhor da Guerra Presacurva",
+        "text": "<b>Rapidez</b> <b>Último Suspiro:</b> Evoque um Senhor da Guerra 5/9 com <b>Provocar</b>.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb7fb09449b79d3c096aeb1c3cc000fa1a5684fbb87d0ffa53aeba85620e6ba5.png",
+        "imageGold": "",
+        "flavorText": "Segura essa concha que nunca desaponta!",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c52a03c67c114e96ce71d751d5f9afee4e8e67871ac720901c10a7d6dace76c5.png",
+        "childIds": [
+          60281
+        ],
+        "keywordIds": [
+          1,
+          12,
+          53
+        ]
+      },
+      {
+        "id": 58244,
+        "collectible": 1,
+        "slug": "58244-hulking-overfiend",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 15,
+        "cardTypeId": 4,
+        "cardSetId": 1463,
+        "rarityId": 3,
+        "artistName": "Bayard Wu",
+        "health": 10,
+        "attack": 5,
+        "manaCost": 8,
+        "name": "Demônio Superior Grandioso",
+        "text": "<b>Rapidez</b>. Depois que atacar e matar um lacaio, este lacaio pode atacar novamente.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70fabc29bacfeeaed288b14cb890d953df4719be18874e2189d5067b0bb567e8.png",
+        "imageGold": "",
+        "flavorText": "Superior! Talvez grandioso. Aí está o obstáculo.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b6e519cf37e644230daf2e380575513b6197b68462406a1aa8eb1269012f960.png",
+        "keywordIds": [
+          53
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 66176,
+        "collectible": 1,
+        "slug": "66176-illidari-inquisitor",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 15,
+        "cardTypeId": 4,
+        "cardSetId": 1637,
+        "rarityId": 3,
+        "artistName": "James Ryman",
+        "health": 8,
+        "attack": 8,
+        "manaCost": 8,
+        "name": "Inquisidor Illidari",
+        "text": "<b>Rapidez</b>. Depois que seu herói atacar um lacaio inimigo, este lacaio o ataca também.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a3749577d5ea7d8eda0d0cdfc3aa7d7cab87782d902be2e6af7753068861889.png",
+        "imageGold": "",
+        "flavorText": "Armed with fear, big eyes, ruthless efficiency, almost fanatical devotion to your hero, and nice brown robes.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76ca49390290fb4870aa77ad95893cb4c39096cb3573d8255d5b05d3e86252c7.png",
+        "keywordIds": [
+          53
+        ]
+      },
+      {
+        "id": 58243,
+        "collectible": 1,
+        "slug": "58243-pit-commander",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 15,
+        "cardTypeId": 4,
+        "cardSetId": 1414,
+        "rarityId": 4,
+        "artistName": "Ludo Lullabi",
+        "health": 9,
+        "attack": 7,
+        "manaCost": 9,
+        "name": "Comandante Abissal",
+        "text": "<b>Provocar</b> No final do seu turno, evoque um Demônio do seu deck.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d250758916fe2799e9c25f6e99449f5f288043da3d54072297ba58b327e3571a.png",
+        "imageGold": "",
+        "flavorText": "\"Fosso! Faça o que mandei!\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ea31a85adcda88054bfda0f28c688d280d99f663d262d332804b9992470ba27.png",
+        "keywordIds": [
+          1
+        ]
+      },
+      {
+        "id": 60143,
+        "collectible": 1,
+        "slug": "60143-ancient-void-hound",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 15,
+        "cardTypeId": 4,
+        "cardSetId": 1443,
+        "rarityId": 4,
+        "artistName": "Jaemin Kim",
+        "health": 10,
+        "attack": 10,
+        "manaCost": 9,
+        "name": "Cão do Caos Ancestral",
+        "text": "No final do seu turno, roube 1 de Ataque e Vida de todos os lacaios inimigos.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a8aecb761f7e814579e25f9d85a8fa7e0fe4c873e0e43fcd84430fa97e16642.png",
+        "imageGold": "",
+        "flavorText": "O que aconteceu com meu Filhotinho do Caos 1/1?",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf9596241b12fc2350f54033f66ecf75594075c6c9be5eaf1c642d02d6545258.png",
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 58172,
+        "collectible": 1,
+        "slug": "58172-nethrandamus",
+        "classId": 14,
+        "multiClassIds": [],
+        "minionTypeId": 24,
+        "cardTypeId": 4,
+        "cardSetId": 1463,
+        "rarityId": 5,
+        "artistName": "Rafael Zanchetin",
+        "health": 8,
+        "attack": 8,
+        "manaCost": 9,
+        "name": "Netrandamus",
+        "text": "<b>Grito de Guerra:</b> Evoque dois lacaios aleatórios de custo . <i>(Aprimora a cada vez que um lacaio aliado morre!)</i>",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/01cf2af62030ba1b77fd19ff3ceefbba959c0237f05ae7a13fdedc433d20d9fc.png",
+        "imageGold": "",
+        "flavorText": "Perdeu o despontar com os outros dragões. Mas antes tarde e etéreo!",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/480886d26217e3005e0779554835a20ba67d65b41a9c3c63b8d5cc7fc3dc8d44.png",
+        "keywordIds": [
+          8
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      }
+    ],
+    "cardCount": 973,
+    "pageCount": 20,
+    "page": 1
+  }

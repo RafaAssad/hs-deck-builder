@@ -1,0 +1,829 @@
+{
+    "cards": [
+      {
+        "id": 58607,
+        "collectible": 1,
+        "slug": "58607-blur",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1463,
+        "rarityId": 1,
+        "artistName": "Zoltan Boros",
+        "manaCost": 0,
+        "name": "Borrão",
+        "text": "Seu herói não recebe dano neste turno.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fd2d01fcdb291a27d4c896b5885e4a5121e453e1bf4794c6df569dcf37a536b.png",
+        "imageGold": "",
+        "flavorText": "\"O que você está dizendo? Que eu posso desviar de machados?\" — \"Eu estou dizendo que, se for um Caçador de Demônios, você não terá que fazer isso.\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c49a59d861fd6fb9a1c8d8f97f7936303033269e75a46bd5487ae5eb5140834a.png",
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 59394,
+        "collectible": 1,
+        "slug": "59394-demon-companion",
+        "classId": 14,
+        "multiClassIds": [
+          14,
+          3
+        ],
+        "cardTypeId": 5,
+        "cardSetId": 1443,
+        "rarityId": 3,
+        "artistName": "Zoltan Boros",
+        "manaCost": 1,
+        "name": "Mascote Demoníaco",
+        "text": "Evoque um Mascote Demoníaco aleatório.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/294b10674c91032736d0427ce4e327c389a0f0f2001ff5e219e51cd4ec63211a.png",
+        "imageGold": "",
+        "flavorText": "Às vezes, criar um bicho pode ser um verdadeiro inferno.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d8c97c0dd4613c24b1ea621ef80cf19f126c173e27160464d52cc3ca0c75a00.png",
+        "childIds": [
+          59391,
+          59392,
+          59393
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 59606,
+        "collectible": 1,
+        "slug": "59606-double-jump",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1443,
+        "rarityId": 1,
+        "artistName": "A.J. Nazzaro",
+        "manaCost": 1,
+        "name": "Salto Duplo",
+        "text": "Compre um card com <b>Exilar</b> do seu deck.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec8c296266e3d2a195c313cad478f3ced873b9b5c47c27a1dbaafafb92db546e.png",
+        "imageGold": "",
+        "flavorText": "A chave pra terminar qualquer speed run.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/209beae7a003bbf59683600f08d847f6bd88a8181bc58ae3fb964f03d7fbcee9.png",
+        "keywordIds": [
+          86
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 58452,
+        "collectible": 1,
+        "slug": "58452-consume-magic",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1463,
+        "rarityId": 1,
+        "artistName": "Ludo Lullabi",
+        "manaCost": 1,
+        "name": "Consumir Magia",
+        "text": "<b>Silencie</b> um lacaio inimigo. <b>Exilar:</b> Compre um card.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ea7226fe49b99eea37d07c707b533f2b9811032aa544d83f4e6d5294501ad07.png",
+        "imageGold": "",
+        "flavorText": "Evite consumir magia crua ou mal cozida.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a75cc1d65fca59eadd684f9b526df2502105990712d7afa004b92bc25d1cf60f.png",
+        "keywordIds": [
+          15,
+          86
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 58610,
+        "collectible": 1,
+        "slug": "58610-mana-burn",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1463,
+        "rarityId": 1,
+        "artistName": "Hideaki Takamura",
+        "manaCost": 1,
+        "name": "Exaurir Mana",
+        "text": "Seu oponente tem 2 Cristais de Mana a menos no próximo turno.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0373a6eb6adba02778d373366b18b75875bd68b4c76b6b4d02ac15aeb649e59.png",
+        "imageGold": "",
+        "flavorText": "Uma forma de garantir que eles não estarão preparados.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/01bd597571edfa3815343637e7c9cfd35613a6c4d498a31aa8f1ab220288f30b.png",
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 56928,
+        "collectible": 1,
+        "slug": "56928-twin-slice",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1463,
+        "rarityId": 1,
+        "artistName": "Maria Trepalina",
+        "manaCost": 1,
+        "name": "Talho Duplo",
+        "text": "Conceda +2 de Ataque ao seu herói neste turno. Adicione \"Segundo Talho\" à sua mão.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e19f0b1baf24430f22acf85efe87f85825eff63cb355e1c13fa8cf5029aa3138.png",
+        "imageGold": "",
+        "flavorText": "Uma cortada tão animada que vai ser dobrada.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d883be7f211a09d91245130d5ca9a211c122b866f7642ea73542a96501f97331.png",
+        "childIds": [
+          56935
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 61131,
+        "collectible": 1,
+        "slug": "61131-throw-glaive",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1466,
+        "rarityId": 3,
+        "artistName": "Matt O'Connor",
+        "manaCost": 1,
+        "name": "Arremessar Glaive",
+        "text": "Cause 2 de dano a um lacaio. Se ele morrer, adicione uma cópia temporária deste feitiço à sua mão.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25bac0009ca40160d9a23fcf6bc458b80739c4c2b4319a163d14b77cc67d3b9b.png",
+        "imageGold": "",
+        "flavorText": "Uma péssima opção pra substituir frisbee.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/06d3951bec4ec6423cf5a170562d283214df802fff9ae003c31e7d5ebc36d500.png",
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 61939,
+        "collectible": 1,
+        "slug": "61939-illidari-studies",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1466,
+        "rarityId": 1,
+        "artistName": "MAR Studio",
+        "manaCost": 1,
+        "name": "Estudos Illidari",
+        "text": "<b>Descubra</b> um card com <b>Exilar</b>. Seu próximo custa (1) a menos.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3358ead7b4037ec788504b86c159ce430b818cddc9d078d7fd4a880e64cd5625.png",
+        "imageGold": "",
+        "flavorText": "\"Não leia enquanto dirige.\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/601546a0b0d0dfc2053aec5b160c7e9de548b59fb7d66ade527699e477c21180.png",
+        "keywordIds": [
+          21,
+          86
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 61127,
+        "collectible": 1,
+        "slug": "61127-felscream-blast",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1466,
+        "rarityId": 1,
+        "artistName": "K. Lashley & K. Turovec",
+        "manaCost": 1,
+        "name": "Impacto Bradovil",
+        "text": "<b>Roubar Vida</b> Cause 1 de dano a um lacaio e aos adjacentes.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afbb2c86c44335cc57c5e080de9101b28bab04dcf385c6ea22ef3112ba91504c.png",
+        "imageGold": "",
+        "flavorText": "Sempre sobra pro vizinho.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d05d26b0193d4ff9f8f91b20d97cb531a9db40eba9e5e31de7d7e863d1576ad.png",
+        "keywordIds": [
+          38
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 56791,
+        "collectible": 1,
+        "slug": "56791-chaos-strike",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 2,
+        "rarityId": 2,
+        "artistName": "Zoltan Boros",
+        "manaCost": 2,
+        "name": "Golpe do Caos",
+        "text": "Conceda +2 de Ataque ao seu herói neste turno. Compre um card.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa9150da528fe34bf2344002ef152a80ed79f4932c5b34b7f855329f6a652537.png",
+        "imageGold": "",
+        "flavorText": "\"O que nós queremos?\" – \"CAOS!\" – \"Quando nós queremos?\" – \"QUANDO MENOS ESPERADO!\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3174d0af59eff27e82a51ba9ed0ba04e4f7f0f6975b52ad4aacf319b12305b0.png",
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 59869,
+        "collectible": 1,
+        "slug": "59869-immolation-aura",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1414,
+        "rarityId": 1,
+        "artistName": "L. Lullabi & K. Turovec",
+        "manaCost": 2,
+        "name": "Aura de Imolação",
+        "text": "Cause 1 de dano a todos os lacaios duas vezes.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4524bf4d74efea25998a148a0136059838a2720cfe6794a3d76196b571c22bea.png",
+        "imageGold": "",
+        "flavorText": "Se não aguenta quando a chapa esquenta, é melhor não ficar no fogo.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b05c78aeb6c79710320eca36552fdba052b31c4ceec7dc99cbe61425e73294f.png"
+      },
+      {
+        "id": 58453,
+        "collectible": 1,
+        "slug": "58453-spectral-sight",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1414,
+        "rarityId": 1,
+        "artistName": "Jakub Kasper",
+        "manaCost": 2,
+        "name": "Visão Espectral",
+        "text": "Compre um card. <b>Exilar:</b> Compre outro.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59f53b9afecbef597277349316617333b86bdcf278d85c55e6352d36a6939979.png",
+        "imageGold": "",
+        "flavorText": "\"Escolha um card, qualquer um! De preferência o que estiver mais à esquerda ou à direita.\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99719966258409c48575004d3200b5b33202f80167bf34ba92dae56687c796b6.png",
+        "keywordIds": [
+          86
+        ]
+      },
+      {
+        "id": 56873,
+        "collectible": 1,
+        "slug": "56873-feast-of-souls",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1463,
+        "rarityId": 3,
+        "artistName": "Anton Zemskov",
+        "manaCost": 2,
+        "name": "Banquete de Almas",
+        "text": "Compre um card para cada lacaio aliado morto neste turno.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/613c2506ed38e880627602696dfaec6ce3877d103e0393573bd678691c92aa53.png",
+        "imageGold": "",
+        "flavorText": "Nada enche o bucho como comida com alma!",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbfd1bbba5dcca5d5deb19f98b7eff09afde75cca5a7a276f49eb356850c9c9b.png",
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 69590,
+        "collectible": 1,
+        "slug": "69590-feast-of-souls",
+        "classId": 14,
+        "multiClassIds": [],
+        "spellSchoolId": 6,
+        "cardTypeId": 5,
+        "cardSetId": 1637,
+        "rarityId": 3,
+        "artistName": "Anton Zemskov",
+        "manaCost": 2,
+        "name": "Banquete de Almas",
+        "text": "Compre um card para cada lacaio aliado morto neste turno.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28db30e3e184293f4c648852c49127438dfc5bc1866b6e56adfbe434cfa01f09.png",
+        "imageGold": "",
+        "flavorText": "Nada enche o bucho como comida com alma!",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbfd1bbba5dcca5d5deb19f98b7eff09afde75cca5a7a276f49eb356850c9c9b.png"
+      },
+      {
+        "id": 69558,
+        "collectible": 1,
+        "slug": "69558-chaos-strike",
+        "classId": 14,
+        "multiClassIds": [],
+        "spellSchoolId": 7,
+        "cardTypeId": 5,
+        "cardSetId": 1637,
+        "rarityId": 1,
+        "artistName": "Zoltan Boros",
+        "manaCost": 2,
+        "name": "Golpe do Caos",
+        "text": "Conceda +2 de Ataque ao seu herói neste turno. Compre um card.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c9d965688f7cfecffe51a50a1b15a5e1ce7f9401d5eeda1d13524f35c9c1863.png",
+        "imageGold": "",
+        "flavorText": "\"O que nós queremos?\" – \"CAOS!\" – \"Quando nós queremos?\" – \"QUANDO MENOS ESPERADO!\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3174d0af59eff27e82a51ba9ed0ba04e4f7f0f6975b52ad4aacf319b12305b0.png"
+      },
+      {
+        "id": 69684,
+        "collectible": 1,
+        "slug": "69684-spectral-sight",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1637,
+        "rarityId": 1,
+        "artistName": "Jakub Kasper",
+        "manaCost": 2,
+        "name": "Visão Espectral",
+        "text": "Compre um card. <b>Exilar:</b> Compre outro.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/343f1f3772891f33b2467c60e1bac5a176b414d5846a751e0325fa3951a4ba97.png",
+        "imageGold": "",
+        "flavorText": "\"Escolha um card, qualquer um! De preferência o que estiver mais à esquerda ou à direita.\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99719966258409c48575004d3200b5b33202f80167bf34ba92dae56687c796b6.png",
+        "keywordIds": [
+          86
+        ]
+      },
+      {
+        "id": 56792,
+        "collectible": 1,
+        "slug": "56792-coordinated-strike",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 2,
+        "rarityId": 2,
+        "artistName": "L. Lullabi & K. Turovec",
+        "manaCost": 3,
+        "name": "Ataque Coordenado",
+        "text": "Evoque três Illidari 1/1 com <b>Rapidez</b>.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/80a501cdd31a5e6472f6d13d31e80f294cfbb39cbf34325832fd47b19e04ed97.png",
+        "imageGold": "",
+        "flavorText": "Campeões indiscutíveis da \"Dança dos Cascosos.\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f839df1d02954e871e415f2292f1a83e3f95ef705579658e5ec557b682813058.png",
+        "childIds": [
+          56927
+        ],
+        "keywordIds": [
+          53
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 57732,
+        "collectible": 1,
+        "slug": "57732-soul-cleave",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 2,
+        "rarityId": 2,
+        "artistName": "Zoltan Boros",
+        "manaCost": 3,
+        "name": "Cutilada da Alma",
+        "text": "<b>Roubar Vida</b> Cause 2 de dano a dois lacaios inimigos aleatórios.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dffce2a8a485f08f78a1b669d58cc3019397f49ac7721d746e0c29eb8d8ad179.png",
+        "imageGold": "",
+        "flavorText": "Alma de demônio se conquista pelo estômago.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3cdc02de33187e9406948e9c94fdcb8766c68a864b9044586f19d5a03849bd1f.png",
+        "keywordIds": [
+          38
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 58492,
+        "collectible": 1,
+        "slug": "58492-blade-dance",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1463,
+        "rarityId": 3,
+        "artistName": "Zoltan Boros",
+        "manaCost": 3,
+        "name": "Dança de Lâminas",
+        "text": "Cause dano equivalente ao Ataque do seu herói a 3 lacaios inimigos aleatórios.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4b99942d5ac1e19678009265a77dd3ac618075afff01776080d5bd366bc687a.png",
+        "imageGold": "",
+        "flavorText": "O jeito mais fácil de liberar a pista de dança.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ae66e1586d38f180b7521d0f16312478c1aedb5ea3dd73c16c3cd8abe6eaeaf.png",
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 58183,
+        "collectible": 1,
+        "slug": "58183-eye-beam",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1463,
+        "rarityId": 4,
+        "artistName": "Arthur Gimaldinov",
+        "manaCost": 3,
+        "name": "Raio Ocular",
+        "text": "<b>Roubar Vida</b>. Cause 3 de dano a um lacaio. <b>Exilar:</b> Custa (1).",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fec20443b22d2bbcb9019bc3295717fb2c919735bbc2e780f84b2861a47c2cea.png",
+        "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d9dabd0aeb02281ecdf4b5253a33588ce6f8b6c0c55c52b239237c15282e820.png",
+        "flavorText": "Às vezes, um visual é MESMO de matar.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69454a91cb3b5055131a93fe7a9d79d5d66ca0fdbf1e6fff1be11355ec5b9dd6.png",
+        "keywordIds": [
+          38,
+          86
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 61273,
+        "collectible": 1,
+        "slug": "61273-acrobatics",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1466,
+        "rarityId": 1,
+        "artistName": "James Ryman",
+        "manaCost": 3,
+        "name": "Acrobacia",
+        "text": "Compre 2 cards. Se você jogar ambos neste turno, compre mais 2.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c87c4c2a2f534a02e78fe3f8c631cc06a9fbeffe66497d9bac903b631c0938f.png",
+        "imageGold": "",
+        "flavorText": "Ele voa pelos ares com leveza e racha.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69f4a3c44e797c10712140a34942b52cbb70246ce7f8d39e59f1481f409bd025.png",
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 61125,
+        "collectible": 1,
+        "slug": "61125-relentless-pursuit",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1466,
+        "rarityId": 1,
+        "artistName": "Slawomir Maniak",
+        "manaCost": 3,
+        "name": "Perseguição Incansável",
+        "text": "Conceda +4 de Ataque e <b>Imune</b> ao seu herói neste turno.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/921919a8188050dcb182587300469a08295294e3217d4616b0de33a19e82b377.png",
+        "imageGold": "",
+        "flavorText": "É isso que você ganha por roubar o milho assado de um Caçador de Demônios.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d0fb7f79b81f894697d1e5e7ab415718ddd62766f8373472c275150e2f408c8.png",
+        "keywordIds": [
+          17
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 69504,
+        "collectible": 1,
+        "slug": "69504-coordinated-strike",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1637,
+        "rarityId": 1,
+        "artistName": "L. Lullabi & K. Turovec",
+        "manaCost": 3,
+        "name": "Ataque Coordenado",
+        "text": "Evoque três Illidari 1/1 com <b>Rapidez</b>.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ddf89507b94f024009679fb117178a922b6778a07e2faa99e7ba5b4353638866.png",
+        "imageGold": "",
+        "flavorText": "Campeões indiscutíveis da \"Dança dos Cascosos.\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f839df1d02954e871e415f2292f1a83e3f95ef705579658e5ec557b682813058.png",
+        "childIds": [
+          56927
+        ],
+        "keywordIds": [
+          53
+        ]
+      },
+      {
+        "id": 69740,
+        "collectible": 1,
+        "slug": "69740-eye-beam",
+        "classId": 14,
+        "multiClassIds": [],
+        "spellSchoolId": 7,
+        "cardTypeId": 5,
+        "cardSetId": 1637,
+        "rarityId": 4,
+        "artistName": "Arthur Gimaldinov",
+        "manaCost": 3,
+        "name": "Raio Ocular",
+        "text": "<b>Roubar Vida</b>. Cause 3 de dano a um lacaio. <b>Exilar:</b> Custa (1).",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8e2ffb9a2d7ce80b6fb69832b63288481356e407d1de34aedd50d395da39492.png",
+        "imageGold": "",
+        "flavorText": "Às vezes, um visual é MESMO de matar.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69454a91cb3b5055131a93fe7a9d79d5d66ca0fdbf1e6fff1be11355ec5b9dd6.png",
+        "keywordIds": [
+          38,
+          86
+        ]
+      },
+      {
+        "id": 60153,
+        "collectible": 1,
+        "slug": "60153-glide",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1443,
+        "rarityId": 3,
+        "artistName": "Slawomir Maniak",
+        "manaCost": 4,
+        "name": "Planar",
+        "text": "Coloque sua mão de volta no seu deck. Compre 4 cards. <b>Exilar:</b> Seu oponente faz o mesmo.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e5789fd977107d90a97e8cea006e0cfd74b0ff4680465e8f0b40ff4807bcd8c.png",
+        "imageGold": "",
+        "flavorText": "\"Venha comigo e verá... uma mão totalmente nova, possivelmente com os mesmos cards de antes.\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a44cbd957e7c899fc88a0da86a534c5c4a953a2163f9bb2b495887d7844099ce.png",
+        "keywordIds": [
+          86
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 58246,
+        "collectible": 1,
+        "slug": "58246-soul-split",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1463,
+        "rarityId": 3,
+        "artistName": "Slawomir Maniak",
+        "manaCost": 4,
+        "name": "Divisão Espiritual",
+        "text": "Escolha um Demônio aliado. Evoque uma cópia dele.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ede9f34027c1b26d995205c11422fb81e78b225ea0c64473fd2063e92fa46034.png",
+        "imageGold": "",
+        "flavorText": "Spoiler: os dois são o gêmeo do mal.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a536745855c8ebcb26d1cd97455f33d00a19a20da7e9a88677b9ec1e4b41791c.png",
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 57847,
+        "collectible": 1,
+        "slug": "57847-chaos-nova",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 2,
+        "rarityId": 2,
+        "artistName": "Rafael Zanchetin",
+        "manaCost": 5,
+        "name": "Nova do Caos",
+        "text": "Cause 4 de dano a todos os lacaios.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7aeef27e134fcf240c74558650bed007b77ee02adcf8e49caf4cd298598fdb7d.png",
+        "imageGold": "",
+        "flavorText": "Mesmo se está mal, o poder de Illidan é visível; semeando o caos, levando-os aonde for possível.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78c24436a9851fd028772e5fbf9be20ce25c7f8ca4d4374084e949d95c9c8e04.png",
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 56899,
+        "collectible": 1,
+        "slug": "56899-metamorphosis",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1414,
+        "rarityId": 5,
+        "artistName": "Alex Horley Orlandelli",
+        "manaCost": 5,
+        "name": "Metamorfose",
+        "text": "Mude seu Poder Heroico para \"Cause 4 de dano\". Após 2 usos, ele muda de volta.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85787cfe3f2b1f28cce54631ab9c05d76bb4a8977ad7b46b960619e7a2df49a4.png",
+        "imageGold": "",
+        "flavorText": "Assim como a lagarta se transforma numa bela borboleta, o caçador de demônios transforma numa massa horrenda de destruição avassaladora e caos irrefreável.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3fb220937709a4b5c2c159fd7d411c3868eabd82e23e613c2702870519eaf50.png",
+        "childIds": [
+          56877,
+          56876
+        ]
+      },
+      {
+        "id": 56841,
+        "collectible": 1,
+        "slug": "56841-command-the-illidari",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1463,
+        "rarityId": 1,
+        "artistName": "L. Lullabi & K. Turovec",
+        "manaCost": 5,
+        "name": "Comando dos Illidari",
+        "text": "Evoque seis Illidari 1/1 com <b>Rapidez</b>.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d4f49153eef1b2a26ad20b0e13d9a502d69d0e3438d9de40fc0dd357f4786c9.png",
+        "imageGold": "",
+        "flavorText": "Eu quero um RA! Eu quero um PI! Eu quero um DEZ! Quem sobrou é ponto de exclamação!",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c101ad276c141e8e73d5d1c5d3831e4e01d7a5a4ecb9190633ccd5c8934ff3e1.png",
+        "childIds": [
+          56927
+        ],
+        "keywordIds": [
+          53
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 69505,
+        "collectible": 1,
+        "slug": "69505-chaos-nova",
+        "classId": 14,
+        "multiClassIds": [],
+        "spellSchoolId": 7,
+        "cardTypeId": 5,
+        "cardSetId": 1637,
+        "rarityId": 1,
+        "artistName": "Rafael Zanchetin",
+        "manaCost": 5,
+        "name": "Nova do Caos",
+        "text": "Cause 4 de dano a todos os lacaios.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d5a9ff7b6a19821d20b8958ccc40db0694ef63453f471fa97074622d8dec95e.png",
+        "imageGold": "",
+        "flavorText": "Mesmo se está mal, o poder de Illidan é visível; semeando o caos, levando-os aonde for possível.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78c24436a9851fd028772e5fbf9be20ce25c7f8ca4d4374084e949d95c9c8e04.png"
+      },
+      {
+        "id": 58201,
+        "collectible": 1,
+        "slug": "58201-skull-of-guldan",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1414,
+        "rarityId": 3,
+        "artistName": "Slawomir Maniak",
+        "manaCost": 6,
+        "name": "Crânio de Gul'dan",
+        "text": "Compre 3 cards. <b>Exilar:</b> Reduza em (3) o custo deles.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8bd9ace89f8de2240a75fc0d6a3e4b078401a716b4e80c086ab554c7abf2d98.png",
+        "imageGold": "",
+        "flavorText": "Um sectário do mal possuído, das sombras a mais demoníaca. Depois de mil vezes se voltar contra os seus, uma abominação aos olhos de todos enfim se tornou!",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e39e94a33c753aab1248ce3370653ea915a8cfab15ea541f32c3c3db53dd7a8f.png",
+        "keywordIds": [
+          86
+        ]
+      },
+      {
+        "id": 59092,
+        "collectible": 1,
+        "slug": "59092-cycle-of-hatred",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1443,
+        "rarityId": 3,
+        "artistName": "Anton Zemskov",
+        "manaCost": 7,
+        "name": "Ciclo de Ódio",
+        "text": "Cause 3 de dano a todos os lacaios. Evoque um Espírito 3/3 para cada lacaio morto.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee984fdf7fab1866bb9f2a81a6678f8bdc7cdd28d18fb100a2cb45700dba89ae.png",
+        "imageGold": "",
+        "flavorText": "Se você juntar 2 destes com um eixo, vira um biciclo de ódio?",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/007d4841f096b73dcb6db22bce0abfd04617aa2ecab858accb4bf2c2863be960.png",
+        "childIds": [
+          60279
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 60164,
+        "collectible": 1,
+        "slug": "60164-fel-guardians",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1443,
+        "rarityId": 1,
+        "artistName": "Anton Zemskov",
+        "manaCost": 7,
+        "name": "Guardiões Vis",
+        "text": "Evoque três Demônios 1/2 com <b>Provocar</b>. Custa (1) a menos sempre que um lacaio aliado morrer.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a759bebfd0c73f74bccff1b9d82cd859c07210b9cb7fa28481b806b1f6e713c8.png",
+        "imageGold": "",
+        "flavorText": "O que aconteceu com o guardião que olhou? Ele vil.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d7725b2eb81a01bedf1ced9bc86b83af619007c8c87126e62fe15a128f12e8d.png",
+        "childIds": [
+          60165
+        ],
+        "keywordIds": [
+          1
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 61130,
+        "collectible": 1,
+        "slug": "61130-expendable-performers",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1466,
+        "rarityId": 4,
+        "artistName": "Hideaki Takamura",
+        "manaCost": 7,
+        "name": "Artistas Descartáveis",
+        "text": "Evoque sete Illidari 1/1 com <b>Rapidez</b>. Se todos morrerem neste turno, evoque mais sete.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f8ea3b38345b3bd6ff1665df560457779bc723beb9f4606e4b99875b04eaf07.png",
+        "imageGold": "",
+        "flavorText": "Quando alguém se machuca, é considerado performance artística.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c7857baf091c7190ae32e56521376eb6b84d7b1e3e9d3a8a7550a2d9e555594.png",
+        "childIds": [
+          56927
+        ],
+        "keywordIds": [
+          53
+        ],
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      },
+      {
+        "id": 59867,
+        "collectible": 1,
+        "slug": "59867-inner-demon",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 2,
+        "rarityId": 2,
+        "artistName": "Gonzalo Ordonez",
+        "manaCost": 8,
+        "name": "Demônio Interior",
+        "text": "Conceda +8 de Ataque ao seu herói neste turno.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d1ab506afa5f8c2b83830581d4def02759af54231827b9971856b763944165f.png",
+        "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c37b8fc69ef61feff596fef3390e6890a8bf3b492b990fbb863f6fd856c2653.png",
+        "flavorText": "Ingrediente crucial de qualquer passado trágico.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/026d3b08eee22507d83da1f40689b3cd352d0d4ee26d07c041e5b43878d04472.png",
+        "duels": {
+          "relevant": true,
+          "constructed": true
+        }
+      }
+    ],
+    "cardCount": 504,
+    "pageCount": 15,
+    "page": 1
+  }

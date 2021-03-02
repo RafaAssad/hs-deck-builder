@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from 'react';
-import cardsRequest from '../services/cardsRequest';
+import { minionRequest } from '../services/cardsRequest';
 import HSCards from '../components/Cards';
 
 const CreateDeck = () => {
   const [cards, setCards] = useState([]);
 
   useEffect(() => {
-    cardsRequest().then((resp) => {
+    minionRequest().then((resp) => {
       setCards(Object.values(resp.cards));
       console.log(cards);
     });
@@ -15,11 +15,13 @@ const CreateDeck = () => {
   return (
     <section>
       <h1>Create Decks</h1>
-      {cards.map((card, idx) => (
-        <div key={idx}>
-          <HSCards key={card.id} {...card} />
-        </div>
-      ))}
+      <div className="grid">
+        {cards.map((card, idx) => (
+          <div key={idx}>
+            <HSCards key={card.id} {...card} />
+          </div>
+        ))}
+      </div>
     </section>
   );
 };
